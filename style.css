@@ -8,7 +8,7 @@ body {
 }
 
 .card{
-    margin-top: 5%;
+    margin-top: 15%;
     padding:16px;
     padding-bottom: 40px;
     margin-left: 40%;
@@ -17,6 +17,7 @@ body {
     text-align: center;
     font-family: "Outfit";
     border-radius: 15px;
+    box-shadow: 5px 5px 10px grey;
 }
 
 .card h1{
